@@ -1,0 +1,7 @@
+numpy
+matplotlib
+argparse
+alive_progress
+keras  
+# cv2: opencv-python
+# tensorflow==2.4
